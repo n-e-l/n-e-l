@@ -1,4 +1,4 @@
-- Heya, I’m Nellie! 🏳️‍🌈
+- Heya, I’m Lauda! 🏳️‍🌈
 
 Passionate about Computer Graphics / Linux / Open-source / Creative Coding / Algorithmic Art
 
