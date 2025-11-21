@@ -1,4 +1,4 @@
-- Heya, I’m Lauda! 🏳️‍🌈
+- Heya, I’m Lauda / Nel! 🏳️‍🌈
 
 Passionate about Computer Graphics / Linux / Open-source / Creative Coding / Algorithmic Art
 
